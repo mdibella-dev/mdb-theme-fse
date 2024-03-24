@@ -5,7 +5,7 @@ _New / Improve / Bugfix_
 
 ### Latest changes to the main branch
 
-- None
+- Improve: Add minor CSS update for publication_keywords
 
 
 <br>

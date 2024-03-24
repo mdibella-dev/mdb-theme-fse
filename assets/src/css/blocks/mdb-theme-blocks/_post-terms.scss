@@ -24,3 +24,15 @@
         hyphens: none;
     }
 }
+
+
+.tags.publication {
+
+    .wp-element-button,
+    .wp-block-button__link {
+        border-color: var(--wp--preset--color--concrete);
+        color: var(--wp--preset--color--concrete);
+        pointer-events: none;
+    }
+
+}
